@@ -1,0 +1,3278 @@
+[
+  {
+    "question": "What is the source of the content?",
+    "context": "Source: The History of the Electric Car | Department of Energy",
+    "answers": {
+      "text": [
+        "The History of the Electric Car | Department of Energy"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "What is another name for an all-electric vehicle?",
+    "context": "Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and",
+    "answers": {
+      "text": [
+        "a battery-electric vehicle, an electric vehicle, or an EV or AEV"
+      ],
+      "answer_start": [
+        47
+      ]
+    }
+  },
+  {
+    "question": "Where does an all-electric vehicle get its energy from?",
+    "context": "Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and",
+    "answers": {
+      "text": [
+        "from its battery"
+      ],
+      "answer_start": [
+        178
+      ]
+    }
+  },
+  {
+    "question": "What is the source of energy for driving an all-electric vehicle?",
+    "context": "Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and",
+    "answers": {
+      "text": [
+        "its battery"
+      ],
+      "answer_start": [
+        183
+      ]
+    }
+  },
+  {
+    "question": "What does EV or AEV stand for?",
+    "context": "Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and",
+    "answers": {
+      "text": [
+        "all-electric vehicle"
+      ],
+      "answer_start": [
+        12
+      ]
+    }
+  },
+  {
+    "question": "What is the full form of AEV?",
+    "context": "Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and",
+    "answers": {
+      "text": [
+        "all-electric vehicle"
+      ],
+      "answer_start": [
+        12
+      ]
+    }
+  },
+  {
+    "question": "What is the full form of EV?",
+    "context": "Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and",
+    "answers": {
+      "text": [
+        "electric vehicle"
+      ],
+      "answer_start": [
+        16
+      ]
+    }
+  },
+  {
+    "question": "What does EV or AEV stand for?",
+    "context": "an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering",
+    "answers": {
+      "text": [
+        "a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged"
+      ],
+      "answer_start": [
+        27
+      ]
+    }
+  },
+  {
+    "question": "What does an EV or AEV need to be recharged?",
+    "context": "an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering",
+    "answers": {
+      "text": [
+        "it must be plugged in to be recharged"
+      ],
+      "answer_start": [
+        100
+      ]
+    }
+  },
+  {
+    "question": "Where does an EV or AEV get its energy from?",
+    "context": "an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering",
+    "answers": {
+      "text": [
+        "from its battery"
+      ],
+      "answer_start": [
+        79
+      ]
+    }
+  },
+  {
+    "question": "What is the power source of an EV or AEV?",
+    "context": "an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering",
+    "answers": {
+      "text": [
+        "its battery"
+      ],
+      "answer_start": [
+        84
+      ]
+    }
+  },
+  {
+    "question": "What is the main topic of the content?",
+    "context": "an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering",
+    "answers": {
+      "text": [
+        "the evolution of the electric vehicle"
+      ],
+      "answer_start": [
+        147
+      ]
+    }
+  },
+  {
+    "question": "What needs to be done for the electric vehicle to be recharged?",
+    "context": "and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering everything from its early popularity to the middle ages to its revival today. [...] vehicle (often",
+    "answers": {
+      "text": [
+        "it must be plugged in to be recharged"
+      ],
+      "answer_start": [
+        4
+      ]
+    }
+  },
+  {
+    "question": "What is the content about?",
+    "context": "and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering everything from its early popularity to the middle ages to its revival today. [...] vehicle (often",
+    "answers": {
+      "text": [
+        "the evolution of the electric vehicle"
+      ],
+      "answer_start": [
+        51
+      ]
+    }
+  },
+  {
+    "question": "What periods does the content cover in the evolution of the electric vehicle?",
+    "context": "and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering everything from its early popularity to the middle ages to its revival today. [...] vehicle (often",
+    "answers": {
+      "text": [
+        "from its early popularity to the middle ages to its revival today"
+      ],
+      "answer_start": [
+        110
+      ]
+    }
+  },
+  {
+    "question": "When did the electric vehicle regain its popularity?",
+    "context": "and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering everything from its early popularity to the middle ages to its revival today. [...] vehicle (often",
+    "answers": {
+      "text": [
+        "its revival today"
+      ],
+      "answer_start": [
+        158
+      ]
+    }
+  },
+  {
+    "question": "What was the state of the electric vehicle in the middle ages?",
+    "context": "and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering everything from its early popularity to the middle ages to its revival today. [...] vehicle (often",
+    "answers": {
+      "text": [
+        "covering everything from its early popularity to the middle ages"
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "What is another name for an electric vehicle?",
+    "context": "everything from its early popularity to the middle ages to its revival today. [...] vehicle (often called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only",
+    "answers": {
+      "text": [
+        "a battery-electric vehicle"
+      ],
+      "answer_start": [
+        106
+      ]
+    }
+  },
+  {
+    "question": "What is the short form for an electric vehicle?",
+    "context": "everything from its early popularity to the middle ages to its revival today. [...] vehicle (often called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only",
+    "answers": {
+      "text": [
+        "an EV"
+      ],
+      "answer_start": [
+        162
+      ]
+    }
+  },
+  {
+    "question": "What does EV stand for?",
+    "context": "everything from its early popularity to the middle ages to its revival today. [...] vehicle (often called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only",
+    "answers": {
+      "text": [
+        "electric vehicle"
+      ],
+      "answer_start": [
+        116
+      ]
+    }
+  },
+  {
+    "question": "What is the meaning of a vehicle often called a battery-electric vehicle?",
+    "context": "everything from its early popularity to the middle ages to its revival today. [...] vehicle (often called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only",
+    "answers": {
+      "text": [
+        "it is only"
+      ],
+      "answer_start": [
+        188
+      ]
+    }
+  },
+  {
+    "question": "What is another name for a battery-electric vehicle?",
+    "context": "called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be",
+    "answers": {
+      "text": [
+        "an electric vehicle or just an EV"
+      ],
+      "answer_start": [
+        35
+      ]
+    }
+  },
+  {
+    "question": "What does EV stand for?",
+    "context": "called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be",
+    "answers": {
+      "text": [
+        "electric vehicle"
+      ],
+      "answer_start": [
+        17
+      ]
+    }
+  },
+  {
+    "question": "What powers an EV?",
+    "context": "called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be",
+    "answers": {
+      "text": [
+        "an electric motor"
+      ],
+      "answer_start": [
+        111
+      ]
+    }
+  },
+  {
+    "question": "What is a PEV?",
+    "context": "called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be",
+    "answers": {
+      "text": [
+        "A plug-in electric vehicle"
+      ],
+      "answer_start": [
+        136
+      ]
+    }
+  },
+  {
+    "question": "What does PEV stand for?",
+    "context": "called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be",
+    "answers": {
+      "text": [
+        "plug-in electric vehicle"
+      ],
+      "answer_start": [
+        138
+      ]
+    }
+  },
+  {
+    "question": "What is the defining characteristic of a PEV?",
+    "context": "called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be",
+    "answers": {
+      "text": [
+        "any vehicle that can be"
+      ],
+      "answer_start": [
+        175
+      ]
+    }
+  },
+  {
+    "question": "What powers a plug-in electric vehicle?",
+    "context": "powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be plugged in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles",
+    "answers": {
+      "text": [
+        "an electric motor"
+      ],
+      "answer_start": [
+        11
+      ]
+    }
+  },
+  {
+    "question": "What is a PEV?",
+    "context": "powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be plugged in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles",
+    "answers": {
+      "text": [
+        "A plug-in electric vehicle"
+      ],
+      "answer_start": [
+        36
+      ]
+    }
+  },
+  {
+    "question": "What does PEV stand for?",
+    "context": "powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be plugged in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles",
+    "answers": {
+      "text": [
+        "plug-in electric vehicle"
+      ],
+      "answer_start": [
+        38
+      ]
+    }
+  },
+  {
+    "question": "How can a plug-in electric vehicle be powered?",
+    "context": "powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be plugged in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles",
+    "answers": {
+      "text": [
+        "can be plugged in"
+      ],
+      "answer_start": [
+        92
+      ]
+    }
+  },
+  {
+    "question": "What types of vehicles are mentioned in the text?",
+    "context": "in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles could help us create a more sustainable future.",
+    "answers": {
+      "text": [
+        "a plug-in hybrid or an all-electric vehicle"
+      ],
+      "answer_start": [
+        11
+      ]
+    }
+  },
+  {
+    "question": "What can plug-in electric vehicles help us create?",
+    "context": "in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles could help us create a more sustainable future.",
+    "answers": {
+      "text": [
+        "a more sustainable future"
+      ],
+      "answer_start": [
+        114
+      ]
+    }
+  },
+  {
+    "question": "What could be a potential benefit of using plug-in electric vehicles?",
+    "context": "in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles could help us create a more sustainable future.",
+    "answers": {
+      "text": [
+        "could help us create a more sustainable future"
+      ],
+      "answer_start": [
+        93
+      ]
+    }
+  },
+  {
+    "question": "What are the two types of electric vehicles?",
+    "context": "in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles could help us create a more sustainable future.",
+    "answers": {
+      "text": [
+        "a plug-in hybrid or an all-electric vehicle"
+      ],
+      "answer_start": [
+        11
+      ]
+    }
+  },
+  {
+    "question": "What is the source of the content?",
+    "context": "Source: Electric Vehicle Benefits and Considerations",
+    "answers": {
+      "text": [
+        "Electric Vehicle Benefits and Considerations"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "What do HEVs typically use less of compared to conventional vehicles?",
+    "context": "Content: HEVs typically use less fuel than similar conventional vehicles because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking—recapturing energy",
+    "answers": {
+      "text": [
+        "fuel"
+      ],
+      "answer_start": [
+        33
+      ]
+    }
+  },
+  {
+    "question": "Why do HEVs use less fuel than similar conventional vehicles?",
+    "context": "Content: HEVs typically use less fuel than similar conventional vehicles because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking—recapturing energy",
+    "answers": {
+      "text": [
+        "because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking"
+      ],
+      "answer_start": [
+        73
+      ]
+    }
+  },
+  {
+    "question": "What technology do HEVs employ to boost vehicle efficiency?",
+    "context": "Content: HEVs typically use less fuel than similar conventional vehicles because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking—recapturing energy",
+    "answers": {
+      "text": [
+        "electric-drive technologies"
+      ],
+      "answer_start": [
+        93
+      ]
+    }
+  },
+  {
+    "question": "How do HEVs boost vehicle efficiency?",
+    "context": "Content: HEVs typically use less fuel than similar conventional vehicles because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking—recapturing energy",
+    "answers": {
+      "text": [
+        "through regenerative braking"
+      ],
+      "answer_start": [
+        149
+      ]
+    }
+  },
+  {
+    "question": "What is the purpose of regenerative braking in HEVs?",
+    "context": "Content: HEVs typically use less fuel than similar conventional vehicles because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking—recapturing energy",
+    "answers": {
+      "text": [
+        "recapturing energy"
+      ],
+      "answer_start": [
+        178
+      ]
+    }
+  },
+  {
+    "question": "What is one technology used to boost vehicle efficiency?",
+    "context": "technologies to boost vehicle efficiency through regenerative braking—recapturing energy otherwise lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles",
+    "answers": {
+      "text": [
+        "regenerative braking"
+      ],
+      "answer_start": [
+        49
+      ]
+    }
+  },
+  {
+    "question": "What does regenerative braking do?",
+    "context": "technologies to boost vehicle efficiency through regenerative braking—recapturing energy otherwise lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles",
+    "answers": {
+      "text": [
+        "recapturing energy otherwise lost during braking"
+      ],
+      "answer_start": [
+        70
+      ]
+    }
+  },
+  {
+    "question": "What are PHEVs?",
+    "context": "technologies to boost vehicle efficiency through regenerative braking—recapturing energy otherwise lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles",
+    "answers": {
+      "text": [
+        "all-electric vehicles, also referred to as battery electric vehicles"
+      ],
+      "answer_start": [
+        130
+      ]
+    }
+  },
+  {
+    "question": "What is another term for all-electric vehicles?",
+    "context": "technologies to boost vehicle efficiency through regenerative braking—recapturing energy otherwise lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles",
+    "answers": {
+      "text": [
+        "battery electric vehicles"
+      ],
+      "answer_start": [
+        173
+      ]
+    }
+  },
+  {
+    "question": "What are PHEVs and all-electric vehicles also referred to as?",
+    "context": "lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles (BEVs), are both capable of being powered solely by electricity, which is produced in the United",
+    "answers": {
+      "text": [
+        "battery electric vehicles (BEVs)"
+      ],
+      "answer_start": [
+        74
+      ]
+    }
+  },
+  {
+    "question": "What are PHEVs and BEVs capable of being powered by?",
+    "context": "lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles (BEVs), are both capable of being powered solely by electricity, which is produced in the United",
+    "answers": {
+      "text": [
+        "solely by electricity"
+      ],
+      "answer_start": [
+        142
+      ]
+    }
+  },
+  {
+    "question": "What is lost during braking?",
+    "context": "lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles (BEVs), are both capable of being powered solely by electricity, which is produced in the United",
+    "answers": {
+      "text": [
+        "lost during braking"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What is the power source for battery electric vehicles?",
+    "context": "lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles (BEVs), are both capable of being powered solely by electricity, which is produced in the United",
+    "answers": {
+      "text": [
+        "electricity"
+      ],
+      "answer_start": [
+        152
+      ]
+    }
+  },
+  {
+    "question": "What are BEVs capable of being powered by?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "electricity"
+      ],
+      "answer_start": [
+        52
+      ]
+    }
+  },
+  {
+    "question": "What is the source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy"
+      ],
+      "answer_start": [
+        109
+      ]
+    }
+  },
+  {
+    "question": "What are some sources of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy"
+      ],
+      "answer_start": [
+        109
+      ]
+    }
+  },
+  {
+    "question": "Is wind energy a source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "wind energy"
+      ],
+      "answer_start": [
+        144
+      ]
+    }
+  },
+  {
+    "question": "Is solar energy a source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "solar energy"
+      ],
+      "answer_start": [
+        173
+      ]
+    }
+  },
+  {
+    "question": "Is nuclear energy a source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "nuclear energy"
+      ],
+      "answer_start": [
+        128
+      ]
+    }
+  },
+  {
+    "question": "Is hydropower a source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "hydropower"
+      ],
+      "answer_start": [
+        157
+      ]
+    }
+  },
+  {
+    "question": "Is coal a source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "coal"
+      ],
+      "answer_start": [
+        122
+      ]
+    }
+  },
+  {
+    "question": "Is natural gas a source of electricity in the United States?",
+    "context": "(BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...]",
+    "answers": {
+      "text": [
+        "natural gas"
+      ],
+      "answer_start": [
+        109
+      ]
+    }
+  },
+  {
+    "question": "What are some sources of energy?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy"
+      ],
+      "answer_start": [
+        12
+      ]
+    }
+  },
+  {
+    "question": "What can be produced from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What is one use of wind energy?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What can be generated from hydropower?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What is a potential use for solar energy?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What can coal be used for?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What is a possible application of nuclear energy?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What is a common use of natural gas?",
+    "context": "States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics",
+    "answers": {
+      "text": [
+        "Electricity"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What is the main topic of the content?",
+    "context": "Electric Vehicle Benefits and Considerations\n============================================",
+    "answers": {
+      "text": [
+        "Electric Vehicle Benefits and Considerations"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What can all forms of electric vehicles help with?",
+    "context": "All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the",
+    "answers": {
+      "text": [
+        "improve fuel economy, lower fuel costs, and reduce emissions"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What is the power source for electric vehicles?",
+    "context": "All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the",
+    "answers": {
+      "text": [
+        "electricity"
+      ],
+      "answer_start": [
+        114
+      ]
+    }
+  },
+  {
+    "question": "How does using electricity for transportation affect public health?",
+    "context": "All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the",
+    "answers": {
+      "text": [
+        "improves public health"
+      ],
+      "answer_start": [
+        163
+      ]
+    }
+  },
+  {
+    "question": "What is the impact of electric vehicles on fuel costs?",
+    "context": "All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the",
+    "answers": {
+      "text": [
+        "lower fuel costs"
+      ],
+      "answer_start": [
+        68
+      ]
+    }
+  },
+  {
+    "question": "What is the effect of electric vehicles on emissions?",
+    "context": "All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the",
+    "answers": {
+      "text": [
+        "reduce emissions"
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "What is the impact of electric vehicles on fuel economy?",
+    "context": "All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the",
+    "answers": {
+      "text": [
+        "improve fuel economy"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What are the benefits of using electricity as a power source for transportation?",
+    "context": "emissions. Using electricity as a power source for transportation improves public health and the environment, and provides safety benefits, and contributes to a resilient transportation system. [...]",
+    "answers": {
+      "text": [
+        "improves public health and the environment, and provides safety benefits, and contributes to a resilient transportation system"
+      ],
+      "answer_start": [
+        66
+      ]
+    }
+  },
+  {
+    "question": "How does using electricity as a power source for transportation impact public health?",
+    "context": "emissions. Using electricity as a power source for transportation improves public health and the environment, and provides safety benefits, and contributes to a resilient transportation system. [...]",
+    "answers": {
+      "text": [
+        "improves public health"
+      ],
+      "answer_start": [
+        66
+      ]
+    }
+  },
+  {
+    "question": "How does using electricity for transportation contribute to safety?",
+    "context": "emissions. Using electricity as a power source for transportation improves public health and the environment, and provides safety benefits, and contributes to a resilient transportation system. [...]",
+    "answers": {
+      "text": [
+        "provides safety benefits"
+      ],
+      "answer_start": [
+        114
+      ]
+    }
+  },
+  {
+    "question": "In what way does using electricity for transportation contribute to a resilient transportation system?",
+    "context": "emissions. Using electricity as a power source for transportation improves public health and the environment, and provides safety benefits, and contributes to a resilient transportation system. [...]",
+    "answers": {
+      "text": [
+        "contributes to a resilient transportation system"
+      ],
+      "answer_start": [
+        144
+      ]
+    }
+  },
+  {
+    "question": "What are some benefits of electric vehicles?",
+    "context": "and provides safety benefits, and contributes to a resilient transportation system. [...] Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive",
+    "answers": {
+      "text": [
+        "Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive"
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "How can electric vehicles impact fuel costs?",
+    "context": "and provides safety benefits, and contributes to a resilient transportation system. [...] Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive",
+    "answers": {
+      "text": [
+        "Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive"
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "What contributes to a resilient transportation system?",
+    "context": "and provides safety benefits, and contributes to a resilient transportation system. [...] Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive",
+    "answers": {
+      "text": [
+        "Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive"
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "What is the efficiency of electric-drive?",
+    "context": "and provides safety benefits, and contributes to a resilient transportation system. [...] Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive",
+    "answers": {
+      "text": [
+        "high"
+      ],
+      "answer_start": [
+        158
+      ]
+    }
+  },
+  {
+    "question": "What is the effect of high efficiency of electric-drive on fuel costs?",
+    "context": "and provides safety benefits, and contributes to a resilient transportation system. [...] Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive",
+    "answers": {
+      "text": [
+        "can reduce fuel costs dramatically"
+      ],
+      "answer_start": [
+        108
+      ]
+    }
+  },
+  {
+    "question": "What can vehicles reduce dramatically?",
+    "context": "vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components. Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel",
+    "answers": {
+      "text": [
+        "fuel costs"
+      ],
+      "answer_start": [
+        20
+      ]
+    }
+  },
+  {
+    "question": "Why can vehicles reduce fuel costs dramatically?",
+    "context": "vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components. Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel",
+    "answers": {
+      "text": [
+        "because of the high efficiency of electric-drive components"
+      ],
+      "answer_start": [
+        44
+      ]
+    }
+  },
+  {
+    "question": "What do all-electric vehicles and PHEVs rely on?",
+    "context": "vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components. Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel",
+    "answers": {
+      "text": [
+        "in whole or part on electric power"
+      ],
+      "answer_start": [
+        150
+      ]
+    }
+  },
+  {
+    "question": "What is the benefit of the high efficiency of electric-drive components?",
+    "context": "vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components. Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel",
+    "answers": {
+      "text": [
+        "can reduce fuel costs dramatically"
+      ],
+      "answer_start": [
+        9
+      ]
+    }
+  },
+  {
+    "question": "What is the result of vehicles relying in whole or part on electric power?",
+    "context": "vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components. Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel",
+    "answers": {
+      "text": [
+        "their fuel"
+      ],
+      "answer_start": [
+        186
+      ]
+    }
+  },
+  {
+    "question": "What do all-electric vehicles and PHEVs rely on?",
+    "context": "Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel economy is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent",
+    "answers": {
+      "text": [
+        "all-electric vehicles and PHEVs rely in whole or part on electric power"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "How is the fuel economy of all-electric vehicles and PHEVs measured?",
+    "context": "Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel economy is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent",
+    "answers": {
+      "text": [
+        "their fuel economy is measured differently than that of conventional vehicles"
+      ],
+      "answer_start": [
+        81
+      ]
+    }
+  },
+  {
+    "question": "What is the unit of measurement for the fuel economy of all-electric vehicles and PHEVs?",
+    "context": "Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel economy is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent",
+    "answers": {
+      "text": [
+        "Miles per gallon of gasoline equivalent"
+      ],
+      "answer_start": [
+        160
+      ]
+    }
+  },
+  {
+    "question": "Do all-electric vehicles and PHEVs rely entirely on electric power?",
+    "context": "Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel economy is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent",
+    "answers": {
+      "text": [
+        "all-electric vehicles and PHEVs rely in whole or part on electric power"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "Is the fuel economy of all-electric vehicles and PHEVs measured the same way as conventional vehicles?",
+    "context": "Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel economy is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent",
+    "answers": {
+      "text": [
+        "their fuel economy is measured differently than that of conventional vehicles"
+      ],
+      "answer_start": [
+        81
+      ]
+    }
+  },
+  {
+    "question": "What is a common metric for measuring conventional vehicles?",
+    "context": "is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven,",
+    "answers": {
+      "text": [
+        "Miles per gallon of gasoline equivalent (MPGe)"
+      ],
+      "answer_start": [
+        60
+      ]
+    }
+  },
+  {
+    "question": "What is another common metric for measuring conventional vehicles?",
+    "context": "is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven,",
+    "answers": {
+      "text": [
+        "kilowatt-hours (kWh) per 100 miles"
+      ],
+      "answer_start": [
+        111
+      ]
+    }
+  },
+  {
+    "question": "What factors can affect the measurement of conventional vehicles?",
+    "context": "is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven,",
+    "answers": {
+      "text": [
+        "Depending on how they are driven"
+      ],
+      "answer_start": [
+        166
+      ]
+    }
+  },
+  {
+    "question": "What does MPGe stand for?",
+    "context": "is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven,",
+    "answers": {
+      "text": [
+        "Miles per gallon of gasoline equivalent"
+      ],
+      "answer_start": [
+        60
+      ]
+    }
+  },
+  {
+    "question": "What does kWh stand for?",
+    "context": "is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven,",
+    "answers": {
+      "text": [
+        "kilowatt-hours"
+      ],
+      "answer_start": [
+        111
+      ]
+    }
+  },
+  {
+    "question": "How is the energy consumption of conventional vehicles often measured?",
+    "context": "is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven,",
+    "answers": {
+      "text": [
+        "Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles"
+      ],
+      "answer_start": [
+        60
+      ]
+    }
+  },
+  {
+    "question": "What are common metrics used in measuring electric vehicle efficiency?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "(MPGe) and kilowatt-hours (kWh) per 100 miles"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles can exceed 130 depending on how they are driven?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "today's light-duty all-electric vehicles (or PHEVs in electric mode)"
+      ],
+      "answer_start": [
+        100
+      ]
+    }
+  },
+  {
+    "question": "What does MPGe stand for?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "(MPGe)"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What does kWh stand for?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "kilowatt-hours (kWh)"
+      ],
+      "answer_start": [
+        11
+      ]
+    }
+  },
+  {
+    "question": "What is the potential performance of today's light-duty all-electric vehicles?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "can exceed 130"
+      ],
+      "answer_start": [
+        169
+      ]
+    }
+  },
+  {
+    "question": "What does PHEVs stand for?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "(or PHEVs in electric mode)"
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "question": "What is the unit for measuring electric vehicle efficiency per 100 miles?",
+    "context": "(MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130",
+    "answers": {
+      "text": [
+        "kilowatt-hours (kWh) per 100 miles"
+      ],
+      "answer_start": [
+        11
+      ]
+    }
+  },
+  {
+    "question": "What is the source of the content?",
+    "context": "Source: History of the electric vehicle - Wikipedia",
+    "answers": {
+      "text": [
+        "History of the electric vehicle - Wikipedia"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "When did the California Air Resources Board begin a push for more fuel-efficient, lower-emissions vehicles?",
+    "context": "Content: In the early 1990s, the California Air Resources Board (CARB), the government of California's \"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the",
+    "answers": {
+      "text": [
+        "In the early 1990s"
+      ],
+      "answer_start": [
+        9
+      ]
+    }
+  },
+  {
+    "question": "What is the California Air Resources Board also known as?",
+    "context": "Content: In the early 1990s, the California Air Resources Board (CARB), the government of California's \"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the",
+    "answers": {
+      "text": [
+        "the government of California's \"clean air agency\""
+      ],
+      "answer_start": [
+        72
+      ]
+    }
+  },
+  {
+    "question": "What was the goal of the California Air Resources Board in the early 1990s?",
+    "context": "Content: In the early 1990s, the California Air Resources Board (CARB), the government of California's \"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the",
+    "answers": {
+      "text": [
+        "a push for more fuel-efficient, lower-emissions vehicles"
+      ],
+      "answer_start": [
+        129
+      ]
+    }
+  },
+  {
+    "question": "Who initiated the push for more fuel-efficient, lower-emissions vehicles in the early 1990s?",
+    "context": "Content: In the early 1990s, the California Air Resources Board (CARB), the government of California's \"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the",
+    "answers": {
+      "text": [
+        "the California Air Resources Board (CARB)"
+      ],
+      "answer_start": [
+        29
+      ]
+    }
+  },
+  {
+    "question": "What is the role of the California Air Resources Board?",
+    "context": "Content: In the early 1990s, the California Air Resources Board (CARB), the government of California's \"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the",
+    "answers": {
+      "text": [
+        "the government of California's \"clean air agency\""
+      ],
+      "answer_start": [
+        72
+      ]
+    }
+  },
+  {
+    "question": "What did the 'clean air agency' begin to push for?",
+    "context": "\"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers",
+    "answers": {
+      "text": [
+        "more fuel-efficient, lower-emissions vehicles"
+      ],
+      "answer_start": [
+        37
+      ]
+    }
+  },
+  {
+    "question": "What is the ultimate goal of the 'clean air agency'?",
+    "context": "\"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers",
+    "answers": {
+      "text": [
+        "a move to zero-emissions vehicles such as electric vehicles"
+      ],
+      "answer_start": [
+        113
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles does the 'clean air agency' ultimately want to move to?",
+    "context": "\"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers",
+    "answers": {
+      "text": [
+        "zero-emissions vehicles such as electric vehicles"
+      ],
+      "answer_start": [
+        123
+      ]
+    }
+  },
+  {
+    "question": "What is an example of a zero-emissions vehicle?",
+    "context": "\"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers",
+    "answers": {
+      "text": [
+        "electric vehicles"
+      ],
+      "answer_start": [
+        155
+      ]
+    }
+  },
+  {
+    "question": "Who responded to the push for more fuel-efficient, lower-emissions vehicles?",
+    "context": "\"clean air agency\", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers",
+    "answers": {
+      "text": [
+        "automakers"
+      ],
+      "answer_start": [
+        188
+      ]
+    }
+  },
+  {
+    "question": "What is the goal for vehicles?",
+    "context": "goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10",
+    "answers": {
+      "text": [
+        "a move to zero-emissions vehicles such as electric vehicles"
+      ],
+      "answer_start": [
+        11
+      ]
+    }
+  },
+  {
+    "question": "What did automakers develop in response to the goal of zero-emissions?",
+    "context": "goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10",
+    "answers": {
+      "text": [
+        "automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10"
+      ],
+      "answer_start": [
+        86
+      ]
+    }
+  },
+  {
+    "question": "What are some examples of electric models developed by automakers?",
+    "context": "goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10",
+    "answers": {
+      "text": [
+        "the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10"
+      ],
+      "answer_start": [
+        134
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles are the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10?",
+    "context": "goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10",
+    "answers": {
+      "text": [
+        "electric models"
+      ],
+      "answer_start": [
+        107
+      ]
+    }
+  },
+  {
+    "question": "Who developed the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10?",
+    "context": "goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10",
+    "answers": {
+      "text": [
+        "automakers"
+      ],
+      "answer_start": [
+        86
+      ]
+    }
+  },
+  {
+    "question": "What are some examples of electric models?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV"
+      ],
+      "answer_start": [
+        31
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicle is the Ford Ranger EV?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "pickup truck"
+      ],
+      "answer_start": [
+        62
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicle is the Honda EV Plus?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "hatchback"
+      ],
+      "answer_start": [
+        116
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicle is the Nissan Altra EV?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "miniwagon"
+      ],
+      "answer_start": [
+        159
+      ]
+    }
+  },
+  {
+    "question": "Which company makes the TEVan model?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "Chrysler"
+      ],
+      "answer_start": [
+        31
+      ]
+    }
+  },
+  {
+    "question": "Which company makes the RAV4 EV model?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "Toyota"
+      ],
+      "answer_start": [
+        173
+      ]
+    }
+  },
+  {
+    "question": "Which company makes the EV1 and S10 EV pickup?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "GM"
+      ],
+      "answer_start": [
+        76
+      ]
+    }
+  },
+  {
+    "question": "What is the power source for the Nissan Altra EV?",
+    "context": "electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...]",
+    "answers": {
+      "text": [
+        "lithium-battery"
+      ],
+      "answer_start": [
+        134
+      ]
+    }
+  },
+  {
+    "question": "What are some examples of battery electric vehicles?",
+    "context": "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from",
+    "answers": {
+      "text": [
+        "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicle is the Honda EV Plus?",
+    "context": "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from",
+    "answers": {
+      "text": [
+        "hatchback"
+      ],
+      "answer_start": [
+        14
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicle is the Nissan Altra EV?",
+    "context": "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from",
+    "answers": {
+      "text": [
+        "miniwagon"
+      ],
+      "answer_start": [
+        57
+      ]
+    }
+  },
+  {
+    "question": "What type of battery does the Nissan Altra EV use?",
+    "context": "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from",
+    "answers": {
+      "text": [
+        "lithium-battery"
+      ],
+      "answer_start": [
+        32
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicle is the Toyota RAV4 EV?",
+    "context": "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from",
+    "answers": {
+      "text": [
+        "RAV4 EV"
+      ],
+      "answer_start": [
+        78
+      ]
+    }
+  },
+  {
+    "question": "When were a number of companies making battery electric vehicles converted from?",
+    "context": "Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from",
+    "answers": {
+      "text": [
+        "From the 1960s to the 1990s"
+      ],
+      "answer_start": [
+        97
+      ]
+    }
+  },
+  {
+    "question": "When did companies start making battery electric vehicles converted from existing manufactured models?",
+    "context": "From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large",
+    "answers": {
+      "text": [
+        "From the 1960s to the 1990s"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What were the battery electric vehicles often made using?",
+    "context": "From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large",
+    "answers": {
+      "text": [
+        "gliders \"Glider (automobiles)\""
+      ],
+      "answer_start": [
+        139
+      ]
+    }
+  },
+  {
+    "question": "Were any of these battery electric vehicles sold in large quantities?",
+    "context": "From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large",
+    "answers": {
+      "text": [
+        "None were sold in large"
+      ],
+      "answer_start": [
+        172
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles were converted into battery electric vehicles?",
+    "context": "From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large",
+    "answers": {
+      "text": [
+        "existing manufactured models"
+      ],
+      "answer_start": [
+        97
+      ]
+    }
+  },
+  {
+    "question": "What is the term used for the component often used in the conversion of existing models to battery electric vehicles?",
+    "context": "From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large",
+    "answers": {
+      "text": [
+        "gliders \"Glider (automobiles)\""
+      ],
+      "answer_start": [
+        139
+      ]
+    }
+  },
+  {
+    "question": "What often used gliders?",
+    "context": "existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to",
+    "answers": {
+      "text": [
+        "existing manufactured models"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What was the issue with these vehicles?",
+    "context": "existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to",
+    "answers": {
+      "text": [
+        "sales hampered by high cost and a limited range"
+      ],
+      "answer_start": [
+        113
+      ]
+    }
+  },
+  {
+    "question": "What was the status of these vehicles in terms of sales?",
+    "context": "existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to",
+    "answers": {
+      "text": [
+        "None were sold in large numbers"
+      ],
+      "answer_start": [
+        75
+      ]
+    }
+  },
+  {
+    "question": "What were the factors affecting the sales of these vehicles?",
+    "context": "existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to",
+    "answers": {
+      "text": [
+        "high cost and a limited range"
+      ],
+      "answer_start": [
+        131
+      ]
+    }
+  },
+  {
+    "question": "Who were most of these vehicles sold to?",
+    "context": "existing manufactured models, often using gliders \"Glider (automobiles)\"). None were sold in large numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to",
+    "answers": {
+      "text": [
+        "Most of these vehicles were sold to"
+      ],
+      "answer_start": [
+        162
+      ]
+    }
+  },
+  {
+    "question": "What factors hampered the sales of these vehicles?",
+    "context": "numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle",
+    "answers": {
+      "text": [
+        "high cost and a limited range"
+      ],
+      "answer_start": [
+        32
+      ]
+    }
+  },
+  {
+    "question": "Who were most of these vehicles sold to?",
+    "context": "numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle",
+    "answers": {
+      "text": [
+        "government agencies and electric utility companies"
+      ],
+      "answer_start": [
+        99
+      ]
+    }
+  },
+  {
+    "question": "What is mentioned in the passage?",
+    "context": "numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle",
+    "answers": {
+      "text": [
+        "the Electric and Hybrid Vehicle"
+      ],
+      "answer_start": [
+        166
+      ]
+    }
+  },
+  {
+    "question": "What did the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 provide?",
+    "context": "government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 in the US provided government incentives for",
+    "answers": {
+      "text": [
+        "government incentives"
+      ],
+      "answer_start": [
+        170
+      ]
+    }
+  },
+  {
+    "question": "When was the Electric and Hybrid Vehicle Research, Development and Demonstration Act passed in the US?",
+    "context": "government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 in the US provided government incentives for",
+    "answers": {
+      "text": [
+        "1976"
+      ],
+      "answer_start": [
+        146
+      ]
+    }
+  },
+  {
+    "question": "Who benefits from the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976?",
+    "context": "government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 in the US provided government incentives for",
+    "answers": {
+      "text": [
+        "government agencies and electric utility companies"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What is the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 related to?",
+    "context": "government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 in the US provided government incentives for",
+    "answers": {
+      "text": [
+        "government agencies and electric utility companies"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What type of incentives did the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 provide?",
+    "context": "government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 in the US provided government incentives for",
+    "answers": {
+      "text": [
+        "government incentives"
+      ],
+      "answer_start": [
+        170
+      ]
+    }
+  },
+  {
+    "question": "What did the Research, Development and Demonstration Act of 1976 in the US provide?",
+    "context": "Research, Development and Demonstration Act of 1976 in the US provided government incentives for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric",
+    "answers": {
+      "text": [
+        "government incentives"
+      ],
+      "answer_start": [
+        71
+      ]
+    }
+  },
+  {
+    "question": "When was the Research, Development and Demonstration Act enacted in the US?",
+    "context": "Research, Development and Demonstration Act of 1976 in the US provided government incentives for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric",
+    "answers": {
+      "text": [
+        "1976"
+      ],
+      "answer_start": [
+        47
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles were most common on the world roads according to the content?",
+    "context": "Research, Development and Demonstration Act of 1976 in the US provided government incentives for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric",
+    "answers": {
+      "text": [
+        "Most electric vehicles on the world roads were low-speed, low-range neighborhood electric"
+      ],
+      "answer_start": [
+        103
+      ]
+    }
+  },
+  {
+    "question": "What were the characteristics of most electric vehicles on the world roads?",
+    "context": "Research, Development and Demonstration Act of 1976 in the US provided government incentives for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric",
+    "answers": {
+      "text": [
+        "low-speed, low-range neighborhood electric"
+      ],
+      "answer_start": [
+        150
+      ]
+    }
+  },
+  {
+    "question": "What act provided government incentives for electric vehicles in the US?",
+    "context": "Research, Development and Demonstration Act of 1976 in the US provided government incentives for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric",
+    "answers": {
+      "text": [
+        "Research, Development and Demonstration Act of 1976"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What type of electric vehicles were most common on the world roads?",
+    "context": "for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As",
+    "answers": {
+      "text": [
+        "Most electric vehicles on the world roads were low-speed, low-range neighborhood electric vehicles (NEVs)."
+      ],
+      "answer_start": [
+        10
+      ]
+    }
+  },
+  {
+    "question": "What are NEVs?",
+    "context": "for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As",
+    "answers": {
+      "text": [
+        "low-speed, low-range neighborhood electric vehicles"
+      ],
+      "answer_start": [
+        57
+      ]
+    }
+  },
+  {
+    "question": "Who estimated the number of NEVs on world roads in 2011?",
+    "context": "for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As",
+    "answers": {
+      "text": [
+        "Pike Research"
+      ],
+      "answer_start": [
+        117
+      ]
+    }
+  },
+  {
+    "question": "How many NEVs were estimated to be on world roads in 2011?",
+    "context": "for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As",
+    "answers": {
+      "text": [
+        "there were almost 479,000 NEVs on world roads in 2011."
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "question": "What does NEVs stand for?",
+    "context": "vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the",
+    "answers": {
+      "text": [
+        "vehicles (NEVs)"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What was the estimated number of NEVs on world roads in 2011?",
+    "context": "vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the",
+    "answers": {
+      "text": [
+        "almost 479,000 NEVs"
+      ],
+      "answer_start": [
+        52
+      ]
+    }
+  },
+  {
+    "question": "When was the estimation of NEVs on world roads made?",
+    "context": "vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the",
+    "answers": {
+      "text": [
+        "2011"
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "How many low-speed battery-powered vehicles were in use as of July 2006?",
+    "context": "vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the",
+    "answers": {
+      "text": [
+        "between 60,000 and 76,000 low-speed battery-powered vehicles"
+      ],
+      "answer_start": [
+        125
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles were in use between 60,000 and 76,000 in number as of July 2006?",
+    "context": "vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the",
+    "answers": {
+      "text": [
+        "low-speed battery-powered vehicles"
+      ],
+      "answer_start": [
+        151
+      ]
+    }
+  },
+  {
+    "question": "How many low-speed battery-powered vehicles were in use in the United States in July 2006?",
+    "context": "of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global",
+    "answers": {
+      "text": [
+        "between 60,000 and 76,000"
+      ],
+      "answer_start": [
+        25
+      ]
+    }
+  },
+  {
+    "question": "What was the number of low-speed battery-powered vehicles in use in the United States in 2004?",
+    "context": "of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global",
+    "answers": {
+      "text": [
+        "about 56,000"
+      ],
+      "answer_start": [
+        123
+      ]
+    }
+  },
+  {
+    "question": "What is North America's top-selling NEV?",
+    "context": "of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global",
+    "answers": {
+      "text": [
+        "the Global"
+      ],
+      "answer_start": [
+        181
+      ]
+    }
+  },
+  {
+    "question": "Did the number of low-speed battery-powered vehicles in use in the United States increase from 2004 to 2006?",
+    "context": "of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global",
+    "answers": {
+      "text": [
+        "up from about 56,000 in 2004"
+      ],
+      "answer_start": [
+        115
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles increased in use in the United States from 2004 to 2006?",
+    "context": "of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global",
+    "answers": {
+      "text": [
+        "low-speed battery-powered vehicles"
+      ],
+      "answer_start": [
+        51
+      ]
+    }
+  },
+  {
+    "question": "What is North America's top-selling NEV?",
+    "context": "in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The",
+    "answers": {
+      "text": [
+        "the Global Electric Motorcars (GEM) vehicles"
+      ],
+      "answer_start": [
+        88
+      ]
+    }
+  },
+  {
+    "question": "How many units of Global Electric Motorcars (GEM) vehicles were sold worldwide by mid-2014?",
+    "context": "in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The",
+    "answers": {
+      "text": [
+        "more than 50,000 units"
+      ],
+      "answer_start": [
+        139
+      ]
+    }
+  },
+  {
+    "question": "How many NEVs were in the United States in 2004?",
+    "context": "in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The",
+    "answers": {
+      "text": [
+        "about 56,000"
+      ],
+      "answer_start": [
+        30
+      ]
+    }
+  },
+  {
+    "question": "What does GEM stand for?",
+    "context": "Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The world's two largest",
+    "answers": {
+      "text": [
+        "Electric Motorcars"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "How many GEM vehicles were sold worldwide by mid-2014?",
+    "context": "Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The world's two largest",
+    "answers": {
+      "text": [
+        "more than 50,000 units"
+      ],
+      "answer_start": [
+        40
+      ]
+    }
+  },
+  {
+    "question": "What is the status of GEM vehicles in terms of sales by mid-2014?",
+    "context": "Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The world's two largest",
+    "answers": {
+      "text": [
+        "more than 50,000 units sold worldwide"
+      ],
+      "answer_start": [
+        40
+      ]
+    }
+  },
+  {
+    "question": "What is the source of the content?",
+    "context": "Source: A brief history of the electric car - Energy Saving Trust\nContent: A brief history of the electric car",
+    "answers": {
+      "text": [
+        "A brief history of the electric car - Energy Saving Trust"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "What is the content about?",
+    "context": "Source: A brief history of the electric car - Energy Saving Trust\nContent: A brief history of the electric car",
+    "answers": {
+      "text": [
+        "A brief history of the electric car"
+      ],
+      "answer_start": [
+        8
+      ]
+    }
+  },
+  {
+    "question": "What role will electric vehicles play in reducing emissions?",
+    "context": "Electric vehicles will have an important part to play in reducing emissions from transport and helping the UK reach its net zero targets.",
+    "answers": {
+      "text": [
+        "Electric vehicles will have an important part to play in reducing emissions from transport"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "How can the UK reach its net zero targets?",
+    "context": "Electric vehicles will have an important part to play in reducing emissions from transport and helping the UK reach its net zero targets.",
+    "answers": {
+      "text": [
+        "Electric vehicles will have an important part to play in reducing emissions from transport and helping the UK reach its net zero targets."
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What is one method to reduce emissions from transport?",
+    "context": "Electric vehicles will have an important part to play in reducing emissions from transport and helping the UK reach its net zero targets.",
+    "answers": {
+      "text": [
+        "Electric vehicles will have an important part to play in reducing emissions from transport"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What type of emissions do electric vehicles have?",
+    "context": "With zero tailpipe emissions, electric vehicles have been growing in popularity in recent years – and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into",
+    "answers": {
+      "text": [
+        "zero tailpipe emissions"
+      ],
+      "answer_start": [
+        5
+      ]
+    }
+  },
+  {
+    "question": "What has been the trend in the popularity of electric vehicles in recent years?",
+    "context": "With zero tailpipe emissions, electric vehicles have been growing in popularity in recent years – and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into",
+    "answers": {
+      "text": [
+        "electric vehicles have been growing in popularity in recent years"
+      ],
+      "answer_start": [
+        30
+      ]
+    }
+  },
+  {
+    "question": "What is expected to happen to the popularity of electric vehicles?",
+    "context": "With zero tailpipe emissions, electric vehicles have been growing in popularity in recent years – and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into",
+    "answers": {
+      "text": [
+        "this is expected to continue"
+      ],
+      "answer_start": [
+        102
+      ]
+    }
+  },
+  {
+    "question": "What is the future of new petrol and diesel cars?",
+    "context": "With zero tailpipe emissions, electric vehicles have been growing in popularity in recent years – and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into",
+    "answers": {
+      "text": [
+        "a ban on the sale of new petrol and diesel cars coming into"
+      ],
+      "answer_start": [
+        137
+      ]
+    }
+  },
+  {
+    "question": "Why might the popularity of electric vehicles continue to grow?",
+    "context": "With zero tailpipe emissions, electric vehicles have been growing in popularity in recent years – and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into",
+    "answers": {
+      "text": [
+        "with a ban on the sale of new petrol and diesel cars coming into"
+      ],
+      "answer_start": [
+        132
+      ]
+    }
+  },
+  {
+    "question": "When is the ban on the sale of new petrol and diesel cars expected to come into force?",
+    "context": "and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into force in 2035. [...] While many consider electric cars to be a relatively new invention, the first",
+    "answers": {
+      "text": [
+        "in 2035"
+      ],
+      "answer_start": [
+        105
+      ]
+    }
+  },
+  {
+    "question": "What is expected to continue?",
+    "context": "and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into force in 2035. [...] While many consider electric cars to be a relatively new invention, the first",
+    "answers": {
+      "text": [
+        "a ban on the sale of new petrol and diesel cars"
+      ],
+      "answer_start": [
+        39
+      ]
+    }
+  },
+  {
+    "question": "What is coming into force in 2035?",
+    "context": "and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into force in 2035. [...] While many consider electric cars to be a relatively new invention, the first",
+    "answers": {
+      "text": [
+        "a ban on the sale of new petrol and diesel cars"
+      ],
+      "answer_start": [
+        39
+      ]
+    }
+  },
+  {
+    "question": "What type of cars will be banned from sale in 2035?",
+    "context": "and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into force in 2035. [...] While many consider electric cars to be a relatively new invention, the first",
+    "answers": {
+      "text": [
+        "new petrol and diesel cars"
+      ],
+      "answer_start": [
+        60
+      ]
+    }
+  },
+  {
+    "question": "What is the common perception about electric cars?",
+    "context": "and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into force in 2035. [...] While many consider electric cars to be a relatively new invention, the first",
+    "answers": {
+      "text": [
+        "many consider electric cars to be a relatively new invention"
+      ],
+      "answer_start": [
+        126
+      ]
+    }
+  },
+  {
+    "question": "When were the first electric cars produced and used?",
+    "context": "force in 2035. [...] While many consider electric cars to be a relatively new invention, the first vehicles were produced and used in the early 19th century. Here, we take a quick look at the history",
+    "answers": {
+      "text": [
+        "in the early 19th century"
+      ],
+      "answer_start": [
+        131
+      ]
+    }
+  },
+  {
+    "question": "Are electric cars a new invention?",
+    "context": "force in 2035. [...] While many consider electric cars to be a relatively new invention, the first vehicles were produced and used in the early 19th century. Here, we take a quick look at the history",
+    "answers": {
+      "text": [
+        "many consider electric cars to be a relatively new invention"
+      ],
+      "answer_start": [
+        27
+      ]
+    }
+  },
+  {
+    "question": "What is the general perception of electric cars?",
+    "context": "force in 2035. [...] While many consider electric cars to be a relatively new invention, the first vehicles were produced and used in the early 19th century. Here, we take a quick look at the history",
+    "answers": {
+      "text": [
+        "many consider electric cars to be a relatively new invention"
+      ],
+      "answer_start": [
+        27
+      ]
+    }
+  },
+  {
+    "question": "What is the time period of the early electric cars?",
+    "context": "force in 2035. [...] While many consider electric cars to be a relatively new invention, the first vehicles were produced and used in the early 19th century. Here, we take a quick look at the history",
+    "answers": {
+      "text": [
+        "the early 19th century"
+      ],
+      "answer_start": [
+        134
+      ]
+    }
+  },
+  {
+    "question": "When were electric vehicles first produced and used?",
+    "context": "were produced and used in the early 19th century. Here, we take a quick look at the history of the electric vehicle.",
+    "answers": {
+      "text": [
+        "in the early 19th century"
+      ],
+      "answer_start": [
+        23
+      ]
+    }
+  },
+  {
+    "question": "What is the topic of discussion?",
+    "context": "were produced and used in the early 19th century. Here, we take a quick look at the history of the electric vehicle.",
+    "answers": {
+      "text": [
+        "the history of the electric vehicle"
+      ],
+      "answer_start": [
+        80
+      ]
+    }
+  },
+  {
+    "question": "What is being discussed in the context?",
+    "context": "were produced and used in the early 19th century. Here, we take a quick look at the history of the electric vehicle.",
+    "answers": {
+      "text": [
+        "the history of the electric vehicle"
+      ],
+      "answer_start": [
+        80
+      ]
+    }
+  },
+  {
+    "question": "When did the history of electric vehicles begin?",
+    "context": "were produced and used in the early 19th century. Here, we take a quick look at the history of the electric vehicle.",
+    "answers": {
+      "text": [
+        "in the early 19th century"
+      ],
+      "answer_start": [
+        23
+      ]
+    }
+  },
+  {
+    "question": "What is the time period mentioned in the context?",
+    "context": "were produced and used in the early 19th century. Here, we take a quick look at the history of the electric vehicle.",
+    "answers": {
+      "text": [
+        "the early 19th century"
+      ],
+      "answer_start": [
+        26
+      ]
+    }
+  },
+  {
+    "question": "What was the primary mode of transport in the late 1820s and early 1830s?",
+    "context": "In the late 1820s and early 1830s, the primary mode of transport was by horse and buggy. However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a",
+    "answers": {
+      "text": [
+        "horse and buggy"
+      ],
+      "answer_start": [
+        72
+      ]
+    }
+  },
+  {
+    "question": "Which countries began to test the concept of a new mode of transport in the late 1820s and early 1830s?",
+    "context": "In the late 1820s and early 1830s, the primary mode of transport was by horse and buggy. However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a",
+    "answers": {
+      "text": [
+        "Hungary, the Netherlands, the UK and the US"
+      ],
+      "answer_start": [
+        112
+      ]
+    }
+  },
+  {
+    "question": "When did innovators begin to test the concept of a new mode of transport?",
+    "context": "In the late 1820s and early 1830s, the primary mode of transport was by horse and buggy. However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a",
+    "answers": {
+      "text": [
+        "In the late 1820s and early 1830s"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What was the mode of transport in Hungary, the Netherlands, the UK and the US in the early 1830s?",
+    "context": "In the late 1820s and early 1830s, the primary mode of transport was by horse and buggy. However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a",
+    "answers": {
+      "text": [
+        "horse and buggy"
+      ],
+      "answer_start": [
+        72
+      ]
+    }
+  },
+  {
+    "question": "Who began to test the concept of a new mode of transport in the late 1820s and early 1830s?",
+    "context": "In the late 1820s and early 1830s, the primary mode of transport was by horse and buggy. However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a",
+    "answers": {
+      "text": [
+        "innovators in Hungary, the Netherlands, the UK and the US"
+      ],
+      "answer_start": [
+        98
+      ]
+    }
+  },
+  {
+    "question": "Where did innovators begin to test the concept of a battery-powered vehicle?",
+    "context": "However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a battery-powered vehicle, creating some of the first small-scale electric cars.",
+    "answers": {
+      "text": [
+        "Hungary, the Netherlands, the UK and the US"
+      ],
+      "answer_start": [
+        23
+      ]
+    }
+  },
+  {
+    "question": "What concept did innovators in Hungary, the Netherlands, the UK and the US begin to test?",
+    "context": "However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a battery-powered vehicle, creating some of the first small-scale electric cars.",
+    "answers": {
+      "text": [
+        "the concept of a battery-powered vehicle"
+      ],
+      "answer_start": [
+        81
+      ]
+    }
+  },
+  {
+    "question": "What did the innovators in Hungary, the Netherlands, the UK and the US create?",
+    "context": "However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a battery-powered vehicle, creating some of the first small-scale electric cars.",
+    "answers": {
+      "text": [
+        "some of the first small-scale electric cars"
+      ],
+      "answer_start": [
+        132
+      ]
+    }
+  },
+  {
+    "question": "What kind of vehicle did the innovators begin to test the concept of?",
+    "context": "However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a battery-powered vehicle, creating some of the first small-scale electric cars.",
+    "answers": {
+      "text": [
+        "a battery-powered vehicle"
+      ],
+      "answer_start": [
+        96
+      ]
+    }
+  },
+  {
+    "question": "What type of cars did the innovators create?",
+    "context": "However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a battery-powered vehicle, creating some of the first small-scale electric cars.",
+    "answers": {
+      "text": [
+        "small-scale electric cars"
+      ],
+      "answer_start": [
+        150
+      ]
+    }
+  },
+  {
+    "question": "When did interest in electric vehicles increase greatly?",
+    "context": "1832 [...] Interest in electric vehicles increased greatly in the late 1890s and early 1900s. In 1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets,",
+    "answers": {
+      "text": [
+        "in the late 1890s and early 1900s"
+      ],
+      "answer_start": [
+        59
+      ]
+    }
+  },
+  {
+    "question": "Who designed and introduced a fleet of battery-powered taxis to London’s streets in 1897?",
+    "context": "1832 [...] Interest in electric vehicles increased greatly in the late 1890s and early 1900s. In 1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets,",
+    "answers": {
+      "text": [
+        "Walter Bersey"
+      ],
+      "answer_start": [
+        103
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles did Walter Bersey introduce to London's streets in 1897?",
+    "context": "1832 [...] Interest in electric vehicles increased greatly in the late 1890s and early 1900s. In 1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets,",
+    "answers": {
+      "text": [
+        "a fleet of battery-powered taxis"
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "question": "Where were Walter Bersey's battery-powered taxis introduced?",
+    "context": "1832 [...] Interest in electric vehicles increased greatly in the late 1890s and early 1900s. In 1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets,",
+    "answers": {
+      "text": [
+        "London’s streets"
+      ],
+      "answer_start": [
+        177
+      ]
+    }
+  },
+  {
+    "question": "What was the significant event in the electric vehicle industry in 1897?",
+    "context": "1832 [...] Interest in electric vehicles increased greatly in the late 1890s and early 1900s. In 1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets,",
+    "answers": {
+      "text": [
+        "Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets"
+      ],
+      "answer_start": [
+        103
+      ]
+    }
+  },
+  {
+    "question": "Who designed and introduced a fleet of battery-powered taxis to London’s streets in 1897?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "Walter Bersey"
+      ],
+      "answer_start": [
+        6
+      ]
+    }
+  },
+  {
+    "question": "In what year did Walter Bersey introduce battery-powered taxis to London?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "1897"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What type of taxis did Walter Bersey introduce to London’s streets?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "a fleet of battery-powered taxis"
+      ],
+      "answer_start": [
+        44
+      ]
+    }
+  },
+  {
+    "question": "Where were battery-powered taxis introduced by Walter Bersey?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "London’s streets"
+      ],
+      "answer_start": [
+        80
+      ]
+    }
+  },
+  {
+    "question": "Which city had a fleet of around 60 electric taxis?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "New York City"
+      ],
+      "answer_start": [
+        104
+      ]
+    }
+  },
+  {
+    "question": "How many electric taxis did New York City have?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "a fleet of around 60 electric taxis"
+      ],
+      "answer_start": [
+        122
+      ]
+    }
+  },
+  {
+    "question": "By 1900, what did electric cars account for?",
+    "context": "1897, Walter Bersey designed and introduced a fleet of battery-powered taxis to London’s streets, while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a",
+    "answers": {
+      "text": [
+        "a"
+      ],
+      "answer_start": [
+        7
+      ]
+    }
+  },
+  {
+    "question": "What type of taxis did New York City have?",
+    "context": "while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a third of all vehicles on the road in the US.",
+    "answers": {
+      "text": [
+        "a fleet of around 60 electric taxis"
+      ],
+      "answer_start": [
+        24
+      ]
+    }
+  },
+  {
+    "question": "By 1900, what percentage of all vehicles on the road in the US were electric cars?",
+    "context": "while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a third of all vehicles on the road in the US.",
+    "answers": {
+      "text": [
+        "a third"
+      ],
+      "answer_start": [
+        98
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles accounted for a third of all vehicles on the road in the US by 1900?",
+    "context": "while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a third of all vehicles on the road in the US.",
+    "answers": {
+      "text": [
+        "electric cars"
+      ],
+      "answer_start": [
+        70
+      ]
+    }
+  },
+  {
+    "question": "How many electric taxis did New York City have?",
+    "context": "while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a third of all vehicles on the road in the US.",
+    "answers": {
+      "text": [
+        "around 60"
+      ],
+      "answer_start": [
+        35
+      ]
+    }
+  },
+  {
+    "question": "What was the state of electric cars in the US by 1900?",
+    "context": "while New York City had a fleet of around 60 electric taxis. By 1900, electric cars accounted for a third of all vehicles on the road in the US.",
+    "answers": {
+      "text": [
+        "electric cars accounted for a third of all vehicles on the road in the US"
+      ],
+      "answer_start": [
+        70
+      ]
+    }
+  },
+  {
+    "question": "What is the source of the content?",
+    "context": "1901\n\nSource: Electric Vehicle Outlook | BloombergNEF\nContent: Source: BloombergNEF, MarkLines, Jato.",
+    "answers": {
+      "text": [
+        "Electric Vehicle Outlook | BloombergNEF"
+      ],
+      "answer_start": [
+        14
+      ]
+    }
+  },
+  {
+    "question": "Who are the sources of the information?",
+    "context": "1901\n\nSource: Electric Vehicle Outlook | BloombergNEF\nContent: Source: BloombergNEF, MarkLines, Jato.",
+    "answers": {
+      "text": [
+        "BloombergNEF, MarkLines, Jato."
+      ],
+      "answer_start": [
+        71
+      ]
+    }
+  },
+  {
+    "question": "What is the topic of the content?",
+    "context": "1901\n\nSource: Electric Vehicle Outlook | BloombergNEF\nContent: Source: BloombergNEF, MarkLines, Jato.",
+    "answers": {
+      "text": [
+        "1901"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What year is mentioned in the content?",
+    "context": "1901\n\nSource: Electric Vehicle Outlook | BloombergNEF\nContent: Source: BloombergNEF, MarkLines, Jato.",
+    "answers": {
+      "text": [
+        "1901"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What companies are mentioned as sources?",
+    "context": "1901\n\nSource: Electric Vehicle Outlook | BloombergNEF\nContent: Source: BloombergNEF, MarkLines, Jato.",
+    "answers": {
+      "text": [
+        "BloombergNEF, MarkLines, Jato."
+      ],
+      "answer_start": [
+        71
+      ]
+    }
+  },
+  {
+    "question": "What does the note include?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "highway-capable passenger EVs"
+      ],
+      "answer_start": [
+        15
+      ]
+    }
+  },
+  {
+    "question": "What are range-extender electric vehicles?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "a variant of plug-in hybrids with an on-board power generator that charges the battery"
+      ],
+      "answer_start": [
+        83
+      ]
+    }
+  },
+  {
+    "question": "What is the function of the on-board power generator in range-extender electric vehicles?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "charges the battery"
+      ],
+      "answer_start": [
+        150
+      ]
+    }
+  },
+  {
+    "question": "What is the forecast for 2025 according to BNEF?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "BNEF’s forecast for"
+      ],
+      "answer_start": [
+        179
+      ]
+    }
+  },
+  {
+    "question": "What type of electric vehicles does the note include?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "highway-capable passenger EVs"
+      ],
+      "answer_start": [
+        15
+      ]
+    }
+  },
+  {
+    "question": "What is a variant of plug-in hybrids?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "range-extender electric vehicles"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What does the on-board power generator do in range-extender electric vehicles?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "charges the battery"
+      ],
+      "answer_start": [
+        150
+      ]
+    }
+  },
+  {
+    "question": "What is BNEF’s forecast related to?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "2025"
+      ],
+      "answer_start": [
+        171
+      ]
+    }
+  },
+  {
+    "question": "What charges the battery in hybrids?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "an on-board power generator"
+      ],
+      "answer_start": [
+        13
+      ]
+    }
+  },
+  {
+    "question": "What is the forecast year according to BNEF?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "2025"
+      ],
+      "answer_start": [
+        67
+      ]
+    }
+  },
+  {
+    "question": "What is the function of the on-board power generator in hybrids?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "charges the battery"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What is the significance of the year 2025 in the context?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "2025 is BNEF’s forecast for the year"
+      ],
+      "answer_start": [
+        67
+      ]
+    }
+  },
+  {
+    "question": "What is the topic of the content?",
+    "context": "EV charging infrastructure\n--------------------------",
+    "answers": {
+      "text": [
+        "EV charging infrastructure"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What is happening to the number of charging points?",
+    "context": "More and more charging points are being built, but prices are rising in many markets. Each country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes",
+    "answers": {
+      "text": [
+        "More and more charging points are being built"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What is happening to prices in many markets?",
+    "context": "More and more charging points are being built, but prices are rising in many markets. Each country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes",
+    "answers": {
+      "text": [
+        "prices are rising in many markets"
+      ],
+      "answer_start": [
+        51
+      ]
+    }
+  },
+  {
+    "question": "What will each country have in terms of charging infrastructure?",
+    "context": "More and more charging points are being built, but prices are rising in many markets. Each country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes",
+    "answers": {
+      "text": [
+        "Each country will have its own optimal mix of home, workplace and public chargers"
+      ],
+      "answer_start": [
+        86
+      ]
+    }
+  },
+  {
+    "question": "What is the trend in the construction of charging points?",
+    "context": "More and more charging points are being built, but prices are rising in many markets. Each country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes",
+    "answers": {
+      "text": [
+        "More and more charging points are being built"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What is the trend in prices in many markets?",
+    "context": "More and more charging points are being built, but prices are rising in many markets. Each country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes",
+    "answers": {
+      "text": [
+        "prices are rising in many markets"
+      ],
+      "answer_start": [
+        51
+      ]
+    }
+  },
+  {
+    "question": "What kind of mix will each country have for chargers?",
+    "context": "More and more charging points are being built, but prices are rising in many markets. Each country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes",
+    "answers": {
+      "text": [
+        "its own optimal mix of home, workplace and public chargers"
+      ],
+      "answer_start": [
+        109
+      ]
+    }
+  },
+  {
+    "question": "What will each country have in terms of electric vehicle infrastructure?",
+    "context": "country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids",
+    "answers": {
+      "text": [
+        "country will have its own optimal mix of home, workplace and public chargers"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "question": "What does the note include?",
+    "context": "country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids",
+    "answers": {
+      "text": [
+        "Includes highway-capable passenger EVs."
+      ],
+      "answer_start": [
+        90
+      ]
+    }
+  },
+  {
+    "question": "What is a variant of plug-in hybrids?",
+    "context": "country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids",
+    "answers": {
+      "text": [
+        "Range-extender electric vehicles"
+      ],
+      "answer_start": [
+        130
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles are range-extender electric vehicles?",
+    "context": "country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids",
+    "answers": {
+      "text": [
+        "a variant of plug-in hybrids"
+      ],
+      "answer_start": [
+        167
+      ]
+    }
+  },
+  {
+    "question": "What type of EVs does the note include?",
+    "context": "country will have its own optimal mix of home, workplace and public chargers. [...] Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids",
+    "answers": {
+      "text": [
+        "highway-capable passenger EVs."
+      ],
+      "answer_start": [
+        99
+      ]
+    }
+  },
+  {
+    "question": "What are range-extender electric vehicles?",
+    "context": "highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery."
+      ],
+      "answer_start": [
+        31
+      ]
+    }
+  },
+  {
+    "question": "What is BNEF's forecast for the year?",
+    "context": "highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "2025"
+      ],
+      "answer_start": [
+        156
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles are highway-capable passenger EVs?",
+    "context": "highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "Range-extender electric vehicles are a variant of plug-in hybrids"
+      ],
+      "answer_start": [
+        31
+      ]
+    }
+  },
+  {
+    "question": "What is the variant of plug-in hybrids?",
+    "context": "highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "Range-extender electric vehicles"
+      ],
+      "answer_start": [
+        31
+      ]
+    }
+  },
+  {
+    "question": "What does the note include?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "Includes highway-capable passenger EVs."
+      ],
+      "answer_start": [
+        6
+      ]
+    }
+  },
+  {
+    "question": "What are range-extender electric vehicles?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery."
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What is the function of the on-board power generator in range-extender electric vehicles?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "On-board power generator that charges the battery."
+      ],
+      "answer_start": [
+        120
+      ]
+    }
+  },
+  {
+    "question": "What is the forecast for 2025 according to BNEF?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "2025 is BNEF’s forecast"
+      ],
+      "answer_start": [
+        171
+      ]
+    }
+  },
+  {
+    "question": "What type of vehicles does the note pertain to?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "Highway-capable passenger EVs."
+      ],
+      "answer_start": [
+        15
+      ]
+    }
+  },
+  {
+    "question": "What is a variant of plug-in hybrids?",
+    "context": "Note: Includes highway-capable passenger EVs. Range-extender electric vehicles are a variant of plug-in hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for",
+    "answers": {
+      "text": [
+        "Range-extender electric vehicles"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What does a hybrid with an on-board power generator do?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "charges the battery"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What is the forecast year according to BNEF?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "2025"
+      ],
+      "answer_start": [
+        67
+      ]
+    }
+  },
+  {
+    "question": "What is the function of the on-board power generator in hybrids?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "charges the battery"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "question": "What is the significance of the year 2025 in the context?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "2025 is BNEF’s forecast for the year"
+      ],
+      "answer_start": [
+        67
+      ]
+    }
+  },
+  {
+    "question": "What does BNEF forecast for the year 2025?",
+    "context": "hybrids with an on-board power generator that charges the battery. 2025 is BNEF’s forecast for the year.",
+    "answers": {
+      "text": [
+        "hybrids with an on-board power generator that charges the battery"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  }
+]

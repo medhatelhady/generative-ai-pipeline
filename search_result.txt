@@ -1,0 +1,38 @@
+Source: The History of the Electric Car | Department of Energy
+Content: An all-electric vehicle (often called a battery-electric vehicle, an electric vehicle, or an EV or AEV for short) is a vehicle that gets its energy for driving entirely from its battery and it must be plugged in to be recharged. Explore the evolution of the electric vehicle, covering everything from its early popularity to the middle ages to its revival today. [...] vehicle (often called a battery-electric vehicle, an electric vehicle or just an EV for short), meaning it is only powered by an electric motor. [...] A plug-in electric vehicle (or PEV) is any vehicle that can be plugged in (either a plug-in hybrid or an all-electric vehicle). Learn how plug-in electric vehicles could help us create a more sustainable future.
+
+Source: The Top Pros And Cons of Electric Cars - EnergySage
+Content: An electric car is any vehicle powered by a battery charged by an external electricity source. There are many categories of Electric and Hybrid vehicles, including all-electric vehicles and plug-in hybrids that use both electric and internal combustion engine technology.
+
+## Pros and cons of electric cars [...] All-electric vehicles are high-performance vehicles with quiet and smooth motors and require less maintenance than internal combustion engines, such as an oil change. The driving experience can also be fun because AEV motors react quickly, making them responsive with good torque. AEVs are newer than their gas-powered counterparts and are often more digitally connected with charging stations, providing options such as controlling charging from an app.
+
+## Disadvantages of electric cars [...] Emissions and carbon footprint reduction, including reduced fuel usage, is another pro for all-electric vehicles. Because they rely on a rechargeable battery, driving an electric car does not create any tailpipe emissions, a significant source of pollution in the United States. In addition, the rechargeable battery means much less money spent on fuel, meaning all energy can be sourced domestically (and often through renewable energy resources such as solar panel systems).
+
+Source: Electric Vehicle Benefits and Considerations
+Content: HEVs typically use less fuel than similar conventional vehicles because they employ electric-drive technologies to boost vehicle efficiency through regenerative braking—recapturing energy otherwise lost during braking. PHEVs and all-electric vehicles, also referred to as battery electric vehicles (BEVs), are both capable of being powered solely by electricity, which is produced in the United States from natural gas, coal, nuclear energy, wind energy, hydropower, and solar energy. [...] Electricity Basics
+   Benefits & Considerations
+   Stations
+   Vehicles
+   Laws & Incentives
+
+Electric Vehicle Benefits and Considerations
+============================================
+
+All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions. Using electricity as a power source for transportation improves public health and the environment, and provides safety benefits, and contributes to a resilient transportation system. [...] Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components. Because all-electric vehicles and PHEVs rely in whole or part on electric power, their fuel economy is measured differently than that of conventional vehicles. Miles per gallon of gasoline equivalent (MPGe) and kilowatt-hours (kWh) per 100 miles are common metrics. Depending on how they are driven, today's light-duty all-electric vehicles (or PHEVs in electric mode) can exceed 130
+
+Source: History of the electric vehicle - Wikipedia
+Content: In the early 1990s, the California Air Resources Board (CARB), the government of California's "clean air agency", began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles.( In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. The [...] From the 1960s to the 1990s, a number of companies made battery electric vehicles converted from existing manufactured models, often using gliders "Glider (automobiles)"). None were sold in large numbers, with sales hampered by high cost and a limited range. Most of these vehicles were sold to government agencies and electric utility companies. The passage of the Electric and Hybrid Vehicle Research, Development and Demonstration Act of 1976 in the US provided government incentives for [...] Most electric vehicles on the world roads were low-speed, low-range neighborhood electric vehicles (NEVs). Pike Research estimated there were almost 479,000 NEVs on world roads in 2011.( As of July 2006( there were between 60,000 and 76,000 low-speed battery-powered vehicles in use in the United States, up from about 56,000 in 2004.( North America's top-selling NEV is the Global Electric Motorcars (GEM) vehicles, with more than 50,000 units sold worldwide by mid-2014.( The world's two largest
+
+Source: A brief history of the electric car - Energy Saving Trust
+Content: A brief history of the electric car
+
+Electric vehicles will have an important part to play in reducing emissions from transport and helping the UK reach its net zero targets.
+
+With zero tailpipe emissions, electric vehicles have been growing in popularity in recent years – and this is expected to continue, with a ban on the sale of new petrol and diesel cars coming into force in 2035. [...] While many consider electric cars to be a relatively new invention, the first vehicles were produced and used in the early 19th century. Here, we take a quick look at the history of the electric vehicle.
+
+1830s
+
+In the late 1820s and early 1830s, the primary mode of transport was by horse and buggy. However, innovators in Hungary, the Netherlands, the UK and the US began to test the concept of a battery-powered vehicle, creating some of the first small-scale electric cars.
+
+1832
+
