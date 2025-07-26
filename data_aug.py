@@ -4,10 +4,9 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 import json
 import os
+from dotenv import load_dotenv
 
-os.environ['OPENAI_API_KEY'] = "voc-1422108720153663203699167c098bcbd5853.29117029"
-os.environ['OPENAI_BASE_URL'] = "https://openai.vocareum.com/v1"
-
+load_dotenv("config.env")
 
 with open("search_result.txt", 'r') as f:
     results_text = f.read()

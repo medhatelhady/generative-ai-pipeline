@@ -1,7 +1,8 @@
 from langchain_tavily import TavilySearch
 import os
+from dotenv import load_dotenv
 
-os.environ["TAVILY_API_KEY"] = "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"
+load_dotenv("config.env")
 
 tavily_search = TavilySearch(
     max_results=5,
