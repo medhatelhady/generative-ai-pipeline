@@ -11,19 +11,19 @@ load_dotenv("config.env")
 with open("search_result.txt", 'r') as f:
     results_text = f.read()
 
-# Node 3: Summarize search results in patient-friendly language
+# Summarize search results in patient-friendly language
 def summarize_health_info(results_text):
     
 
-    # === 2. Split into chunks ===
+    # Split into chunks 
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=200,
-        chunk_overlap=100
+        chunk_size=300,
+        chunk_overlap=50
     )
     chunks = splitter.split_text(results_text)
 
-    # === 3. Setup LangChain LLM Chain ===
-    llm = ChatOpenAI(temperature=0.2, model_name="gpt-4")  # or use "gpt-3.5-turbo" etc.
+    # Setup LangChain LLM Chain
+    llm = ChatOpenAI(temperature=0.2, model_name="gpt-3.5-turbo") 
 
     prompt_template = PromptTemplate.from_template("""
     You are a dataset generator for training a language model.
